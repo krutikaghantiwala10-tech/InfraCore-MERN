@@ -1,0 +1,362 @@
+{
+  "admins": [
+    {
+      "id": "1",
+      "name": "Khushi",
+      "username": "khushi123",
+      "password": "khushi@22$07",
+      "email": "khushi@gmail.com",
+      "phone": "9086205094"
+    },
+    {
+      "id": "2",
+      "name": "Vaishnavi",
+      "username": "vaishnavi123",
+      "password": "vaishnavi@03$04",
+      "email": "vaishnavi@gmail.com",
+      "phone": "7600565094"
+    },
+    {
+      "id": "3",
+      "name": "Vency",
+      "username": "vency111",
+      "password": "vency@10$01",
+      "email": "vency@gmail.com",
+      "phone": "9905461594"
+    },
+    {
+      "id": "4",
+      "name": "Dharmishtha",
+      "username": "dhami2728",
+      "password": "dhami@24$02",
+      "email": "dharmishtha@gmail.com",
+      "phone": "7805693284"
+    },
+    {
+      "id": "93c8",
+      "name": "Krisha",
+      "email": "krisha@gmail.com",
+      "password": "krisha@08$03",
+      "phone": "09825546732"
+    },
+    {
+      "id": "2e02",
+      "name": "kinjal123",
+      "email": "kinjal17@gmail.com",
+      "password": "Kinjal@17$12",
+      "phone": "09898765678"
+    }
+  ],
+  "contractors": [
+    {
+      "name": "Om Patel",
+      "email": "om@gmail.com",
+      "phone": "9876543210",
+      "specialization": "Mechanical Engineer",
+      "DOJ": "2025-01-21",
+      "password": "Aumshiv",
+      "id": "1"
+    },
+    {
+      "name": "Pankaj Mishra",
+      "email": "pankajsir@gmail.com",
+      "phone": "9876543210",
+      "specialization": "Computer Engineer",
+      "password": "Pankajsir mishra",
+      "DOJ": "2015-12-10",
+      "id": "2"
+    },
+    {
+      "id": "3",
+      "name": "Rohit Varma",
+      "email": "rohit@gmail.com",
+      "password": "rohit123",
+      "phone": "9087676650",
+      "specialization": "Building Information Modeling",
+      "DOJ": "2019-05-10"
+    },
+    {
+      "id": "4",
+      "name": "Kartik Thakkar",
+      "email": "kartik@gmail.com",
+      "password": "DataAnalyst",
+      "phone": "9876543210",
+      "specialization": "Agricultural Engineer",
+      "DOJ": "2010-08-02"
+    },
+    {
+      "id": "5",
+      "name": "Dhirendra Tandel",
+      "email": "dhirendra@gmail.com",
+      "password": "Bhagvan Na Manas",
+      "phone": "9876543210",
+      "specialization": "Electrical Engineer",
+      "DOJ": "2012-12-12"
+    },
+    {
+      "id": "e3fe",
+      "name": "Raj Jariwala",
+      "email": "raj23@gmail.com",
+      "password": "Khushbu-Keslu Jariwala",
+      "phone": "7890876540",
+      "specialization": "Industrial Engineer",
+      "DOJ": "2025-09-23"
+    }
+  ],
+  "feedbacks": [
+    {
+      "id": "1",
+      "username": "KhushiGavit123",
+      "email": "khushi@gmail.com",
+      "feedback": "Great service!",
+      "rating": 4
+    },
+    {
+      "id": "2",
+      "username": "VencyAhir1",
+      "email": "vency@gmail.com",
+      "feedback": "Could be improved.",
+      "rating": 2
+    },
+    {
+      "id": "3",
+      "username": "Vaishnavi_Jariwala",
+      "email": "vaishu@gmail.com",
+      "feedback": "Loved the experience!",
+      "rating": 5
+    },
+    {
+      "id": "4",
+      "username": "DharmishthaChauhan06",
+      "email": "dharmishtha@gmail.com",
+      "feedback": "Could be better.",
+      "rating": 3
+    },
+    {
+      "id": "5",
+      "username": "Krisha_Rana",
+      "email": "krisha@gmail.com",
+      "feedback": "Very satisfied with the service.",
+      "rating": 5
+    },
+    {
+      "id": "f3a8",
+      "username": "AliceJohnson01",
+      "email": "abc@gmail.com",
+      "feedback": "Your Services are Too Good",
+      "rating": 5
+    },
+    {
+      "id": "5c9a",
+      "username": "Darshan_Shah",
+      "email": "darshans7024@gmail.com",
+      "feedback": "Too Good Services",
+      "rating": 4
+    },
+    {
+      "id": "766a",
+      "username": "Raj_Jariwala",
+      "email": "raj23@gmail.com",
+      "feedback": "Very Helpful To Find Contractors ",
+      "rating": 5
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "Metro Train",
+      "description": "This project focuses on enhancing urban mobility through an advanced metro train system.",
+      "location": "Pal RTO, Surat",
+      "image": "/Images/MetroTrain.jpg",
+      "startDate": "2025-01-18",
+      "budget": "$27,00,000,00",
+      "status": "Ongoing"
+    },
+    {
+      "id": "2",
+      "title": "Dream Festiva",
+      "description": "Dream Festiva Designed to experience your food between water like architecture.",
+      "location": "Palanpur, Surat",
+      "image": "/Images/DreamFestiva.jpg",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "budget": "$1,000,000",
+      "status": "Completed"
+    },
+    {
+      "id": "3",
+      "title": "Rajhans Altezza",
+      "description": "This project focuses on creating a luxurious living space with modern amenities.",
+      "location": "Vesu Road, Surat",
+      "image": "/Images/RajhansAltezza.jpeg",
+      "startDate": "2026-02-25",
+      "estimatedBudget": "$35,000,000",
+      "status": "Upcoming",
+      "endDate": ""
+    },
+    {
+      "id": "4",
+      "title": "Burj Al Arab",
+      "description": "This project focuses on innovative solutions to modern problems.",
+      "location": "Dubai",
+      "image": "/Images/dubaibuilding.jpg",
+      "startDate": "1994-11-19",
+      "budget": "$2,10,00,000",
+      "status": "Ongoing"
+    },
+    {
+      "id": "5",
+      "title": "Adani Aster Neo",
+      "description": "This project is focused on creating smart residential complex.",
+      "location": "Township Near Vaishnodevi Circle, Ahmedabad",
+      "image": "/Images/Adani.jpg",
+      "startDate": "2026-01-10",
+      "estimatedBudget": "$26,000,000",
+      "status": "Upcoming"
+    },
+    {
+      "id": "6",
+      "title": "Pamban Bridge",
+      "description": "This project showcases the unique engineering challenges of building a bridge over water.",
+      "location": "Pamban Island, Tamil Nadu",
+      "image": "/Images/PambanRainBridge.jpg",
+      "startDate": "1911-08-02",
+      "endDate": "1914-02-28",
+      "budget": "$7,000,000",
+      "status": "Completed"
+    },
+    {
+      "id": "7",
+      "title": "Burj Binghatti",
+      "description": "Burj Binghatti is a project by Dubai-based real estate player, to collaboration with the watch and jewellery brand Jacobs & Co.",
+      "location": "BusinessBay, Dubai",
+      "image": "/Images/BurjBinghati.jpg",
+      "startDate": "2027-01-24",
+      "estimatedBudget": "$15,000,000",
+      "status": "Upcoming"
+    },
+    {
+      "id": "8",
+      "title": "Rajhans Creston",
+      "description": "This project aims to redefine luxury living in modern architecture.",
+      "location": "Causeway Rd, Surat",
+      "image": "/Images/RajhansCreston.jpeg",
+      "startDate": "2022-01-08",
+      "budget": "$90,00,000",
+      "status": "Ongoing"
+    },
+    {
+      "id": "9",
+      "title": "Infinity Spire",
+      "description": "This project highlights the integration of technology in construction.",
+      "location": "FutureTech City",
+      "image": "/Images/building3.jpg",
+      "startDate": "2026-01-01",
+      "endDate": "2030-12-31",
+      "budget": "$750,000,000",
+      "status": "Completed"
+    },
+    {
+      "id": "46a8",
+      "title": "Aumshiv Waterpark with Forest Fun",
+      "description": "Waterpark in biggest forest ",
+      "location": "Mahuaa Dang",
+      "image": "/Images/PambanRainBridge.jpg",
+      "startDate": "2025-11-05",
+      "budget": "$2500000",
+      "status": "Ongoing"
+    },
+    {
+      "id": "4167",
+      "title": "world biggest library",
+      "description": "library in surat",
+      "location": "Vesu Surat",
+      "image": "/Images/Adani.jpg",
+      "startDate": "2025-10-10",
+      "endDate": "",
+      "budget": "",
+      "estimatedBudget": "$100000000",
+      "status": "Upcoming"
+    },
+    {
+      "id": "324c",
+      "title": "BTS Concert Hall in Surat",
+      "description": "BTS Concert Hall for Garib BTS Lovers in Surat",
+      "location": "Vesu Surat",
+      "image": "/Images/project-9.webp",
+      "startDate": "2025-10-10",
+      "budget": "$97000000",
+      "status": "Ongoing"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "KishanJariwala",
+      "password": "123",
+      "email": "kishanjariwala@example.com",
+      "phone": "9898675434"
+    },
+    {
+      "id": "2",
+      "name": "KalavatiChandra",
+      "password": "123",
+      "email": "kalavatichandra@example.com",
+      "phone": "7688764502"
+    },
+    {
+      "id": "3",
+      "name": "Raj_Jariwala",
+      "password": "123",
+      "email": "rajjariwala@example.com",
+      "phone": "7890876540"
+    },
+    {
+      "id": "4",
+      "name": "DianaPrince10",
+      "password": "123",
+      "email": "dianaprince@example.com",
+      "phone": "8907654590"
+    },
+    {
+      "id": "5",
+      "name": "MohanPyare",
+      "password": "123",
+      "email": "mohan@example.com",
+      "phone": "6789054321"
+    },
+    {
+      "id": "04f3",
+      "name": "Darshan_Shah",
+      "email": "darshans7024@gmail.com",
+      "password": "mukkishah19",
+      "phone": "01234567890"
+    }
+  ],
+  "hires": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "9876543210",
+      "created_at": "2025-11-06",
+      "image": "https://via.placeholder.com/50"
+    },
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com",
+      "phone": "9876543210",
+      "created_at": "2025-11-06",
+      "image": "https://via.placeholder.com/50"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane@example.com",
+      "phone": "9123456780",
+      "created_at": "2025-11-05",
+      "image": "https://via.placeholder.com/50"
+    }
+  ]
+}

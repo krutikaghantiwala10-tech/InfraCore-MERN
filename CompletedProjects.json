@@ -1,0 +1,38 @@
+[
+    {
+        "id": "df123",
+        "title":"Dream Festiva",
+        "description":"Dream Festiva, an enchanting restaurant nestled in the heart of Palanpur, Surat, offers a captivating dining experience where dreams and flavors converge. Step into a world of artistry, where each dish is a masterpiece inspired by nature's bounty and seasoned with a touch of whimsy.",
+        "bolddescription":"Dream Festiva is the epitome of exquisite taste, inviting you on a journey of culinary artistry like no other",
+        "location":"Palanpur, Surat",
+        "image":"/Images/DreamFestivaBig.jpeg",
+        "startDate":"01-Jan-2023",
+        "endDate":"31-Dec-2023",
+        "budget":"$1,000,000",
+        "status":"Completed"
+    },
+    {
+        "id": "pb456",
+        "title":"Pamban Bridge",
+        "description":"The Pamban bridge is a railway bridge that connected the town of Rameswaram on Pamban Island to Mandapam on mainland India. It was the only surface transport link that connected Rameswaram to the mainland India until 1988, when a road bridge was constructed parallel to the railway bridge.",
+        "bolddescription":"it was India's first sea bridge, and was the longest sea bridge in India until the opening of the Bandraworli Sea Link in 2010.",
+        "location":"Pamban Island, Tamil Nadu",
+        "image":"/Images/PambanRainBridge.jpg",
+        "startDate":"02-AUG-1911",
+        "endDate":"28-FEB-1914",
+        "budget":"$7,000,000",
+        "status":"Completed"
+    },
+    {
+        "id": "is789",
+        "title": "Infinity Spire",
+        "description": "Infinity Spire is a visionary skyscraper concept that redefines architectural boundaries with its twisting, organic form and golden accents. Designed to symbolize growth, unity, and futuristic progress, this project combines luxury, technology, and sustainability in one iconic structure.",
+        "bolddescription": "Infinity Spire stands as a beacon of futuristic design — a harmony of innovation and elegance rising toward the skies.",
+        "location": "FutureTech City",
+        "image": "/Images/building3.jpg",
+        "startDate": "01-Jan-2026",
+        "endDate": "31-Dec-2030",
+        "budget": "$750,000,000",
+        "status": "Completed"
+    }
+]
